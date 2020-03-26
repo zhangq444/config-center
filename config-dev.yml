@@ -1,1 +1,3 @@
-config-dev
+#config-dev
+config:
+  info: 测试配置中心config
